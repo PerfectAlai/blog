@@ -1,0 +1,51 @@
+body{
+  background-image: url(./img/Handbag-Store-Design-1.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
+  background-size: 1400px 460px;
+}
+
+h1{
+  border-color: white;
+  text-align: center;
+  text-decoration-color: white;
+}
+
+h2{
+  text-align: center;
+  margin: 40px;
+}
+
+p{
+  display: block;
+  font-size: 50px;
+  padding: 0px;
+  margin: 0px;
+  color: green;
+  text-align: left;
+}
+
+ol{
+  background-color: gray; 
+  background-position: center;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 35px;
+}
+
+.one{
+  background-color:rgb(122, 135, 135);
+  word-spacing: 15px;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.two{
+  
+}
+
+.sic{
+  margin-left: 1002px;
+}
